@@ -1,22 +1,68 @@
-# Mohsen Ali Hussein  
-### Telegram Bots Developer | Automation
+<div align="center">
 
-👨‍💻 **مطور بوتات تيليجرام** متخصص في بناء بوتات تحميل وأتمتة موثوقة وقابلة للتوسع.  
-🎯 هدفي الأساسي هو **التعلم المستمر، تطوير المهارات، وبناء حلول عملية** تخدم المستخدمين بكفاءة عالية.
+# 👨‍💻 Mohsen Ali Hussein  
+### 🚀 Telegram Bots Developer | Automation
+
+**Building powerful Telegram bots for media downloading & automation**  
+**مطور بوتات تيليجرام لبناء حلول تحميل وأتمتة قوية وعملية**
+
+---
+
+🚀 *Fast* • 🔒 *Reliable* • ⚙️ *Scalable* • 🧠 *Always Learning*
+
+</div>
+
+---
+
+## 🤖 My Telegram Bots | بوتاتي على تيليجرام
+
+### 🎬 Universal Video Downloader Bot  
+> تحميل الفيديوهات من **جميع مواقع التواصل الاجتماعي**
+
+<div align="center">
+
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Video%20Downloader-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dr7a_bot)
+
+</div>
+
+**Supported Platforms:**  
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+
+---
+
+### 🎵 Universal MP3 Downloader Bot  
+> تحميل الصوت **MP3** من جميع مواقع التواصل الاجتماعي
+
+<div align="center">
+
+[![Telegram Bot](https://img.shields.io/badge/Telegram-MP3%20Downloader-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YoutuneX_bot)
+
+</div>
+
+**Supported Platforms:**  
+![YouTube MP3](https://img.shields.io/badge/YouTube%20MP3-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![TikTok MP3](https://img.shields.io/badge/TikTok%20MP3-000000?style=flat-square&logo=tiktok&logoColor=white)
+![Instagram MP3](https://img.shields.io/badge/Instagram%20MP3-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![Facebook MP3](https://img.shields.io/badge/Facebook%20MP3-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
 ---
 
 ## 🚀 About Me
-I am a **Telegram Bots Developer** focused on building efficient and stable bots for content downloading and automation.  
-My primary goal is **continuous learning and technical growth**, turning ideas into reliable real-world tools.
+I am a **Telegram Bots Developer** focused on building **efficient, stable, and scalable** bots for media downloading and automation.  
+My primary goal is **continuous learning and technical growth**, turning ideas into real-world solutions.
+
+👨‍💻 مطور بوتات تيليجرام أركز على الأداء، الاستقرار، وبناء حلول حقيقية تخدم المستخدمين.
 
 ---
 
 ## 🧩 What I Build | ماذا أطور
 - 🤖 Telegram bots using **Python**
-- 🎵 Music downloader bots from social media platforms
-- 🎬 Video-only downloader bots from social media platforms
-- ⚙️ Automation tools and background services
+- 🎬 Video downloader bots (multi-platform)
+- 🎵 MP3 / audio downloader bots
+- ⚙️ Automation tools & background services
 - 🛠️ Performance optimization & error handling
 
 ---
@@ -30,21 +76,17 @@ My primary goal is **continuous learning and technical growth**, turning ideas i
 
 ---
 
-## 📌 Goals | الأهداف
+## 🎯 Goals | الأهداف
 - 📚 Build strong fundamentals in software development  
 - 🚀 Create high-quality Telegram bots with real-world usage  
-- 🧠 Improve code structure, security, and scalability  
-- 🌱 Learn continuously and grow as a developer  
+- 🔐 Improve security, stability, and scalability  
+- 🌱 Learn continuously and evolve as a developer  
 
 ---
 
-## 📂 Featured Projects | مشاريع مختارة
-- 🔹 **Telegram Music Downloader Bot**  
-- 🔹 **Telegram Video Downloader Bot**  
+<div align="center">
 
-*(More projects coming soon)*
+⭐ **If you find my work useful, feel free to support it with a star**  
+⭐ **إذا أعجبك عملي لا تنسَ دعمه بنجمة**
 
----
-
-⭐ If you find my work useful, feel free to support it with a star  
-⭐ إذا أعجبك عملي لا تنسى دعمه بنجمة
+</div>
